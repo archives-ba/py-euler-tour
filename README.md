@@ -1,1 +1,1 @@
-Algoritmo que descobre um Tour de Euler utilizando o algoritmo de Hierholzer.
+Algorithm in python to find the Euler tour.
